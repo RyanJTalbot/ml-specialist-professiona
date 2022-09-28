@@ -6,3 +6,5 @@
 * Reducing Unfair Bias in Machine Learning
 * AI FactSheets for Transparency and Governance
 * AI Explainability 360 for Explainable AI and ML
+
+Finished Course as of September 20, 2022

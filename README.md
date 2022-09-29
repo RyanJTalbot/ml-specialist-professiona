@@ -8,3 +8,5 @@
 * AI Explainability 360 for Explainable AI and ML
 
 Finished Course as of September 20, 2022
+
+TODO: Update with final exam 
